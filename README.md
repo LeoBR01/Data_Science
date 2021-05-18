@@ -1,2 +1,2 @@
 # Data_Science
-Projetos no estudo de ciencia de dados
+Projetos no estudo de Ciencia de Dados.
